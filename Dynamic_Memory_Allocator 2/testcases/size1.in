@@ -1,0 +1,15 @@
+1
+1
+Allocate 1
+Allocate 0
+Allocate 0
+Allocate 2
+Allocate -1
+Free 0
+Free 1
+Allocate 2
+Allocate 1
+Free 1
+Free 2
+Free -2
+Allocate -2

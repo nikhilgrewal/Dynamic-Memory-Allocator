@@ -1,0 +1,9 @@
+1
+20
+Allocate 25
+Allocate 10
+Free 0
+Allocate 20
+Allocate 20
+Free 0
+Allocate 20
